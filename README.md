@@ -47,4 +47,12 @@ Sometimes your server needs to multitask. Goroutines help handle requests withou
 If you find it helpful, awesome. If not, no worries — I’m just figuring things out.
 
 ## Output
+
 still same like this repo (https://github.com/domswp/Toko-mainan-RESTful-APIs)
+
+## Depedencies
+
+for this repo you must install this depedencies, using this command
+```bash
+go get github.com/gorilla/mux
+```
